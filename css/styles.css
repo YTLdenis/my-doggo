@@ -43,10 +43,11 @@ header {
 }
 
 li {
-    margin: 5%;
+    margin-left: 8%;
     text-align: left;
     list-style-type: none;
 }
+
 
 .main {
     width: 70%;
