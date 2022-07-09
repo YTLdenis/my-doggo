@@ -1,0 +1,57 @@
+
+/* Navigation Bar */
+header {
+    background-color: lightgrey;
+}
+
+.nav-item{
+    display: inline-block;
+    margin: 0 0.5px 0;
+    padding: 2% 3.5%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+
+}
+
+/* Profile */
+
+.images {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin: 8%;
+}
+
+.profile {
+    width: 30%;
+    float: left;
+    height: 1000px;
+    text-align: center;
+}
+
+.profile1 {
+    background-color: orange;
+    height: 300px;
+    margin: 0;
+}
+
+.pet-stats {
+    background-color: red;
+    height: 700px;
+    margin: 0;
+}
+
+li {
+    margin: 5%;
+    text-align: left;
+    list-style-type: none;
+}
+
+.main {
+    width: 70%;
+    float: right;
+    background-color: teal;
+    height: 1000px;
+}
+
